@@ -17,6 +17,6 @@ Eu sou a AC.
   <img align="center" alt="Ac-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div>
+<!-- <div>
   ![Snake animation](https://github.com/ac-olli/ac-olli/blob/output/github-contribution-grid-snake.svg)
-</div>
+</div> -->
